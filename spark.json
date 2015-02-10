@@ -2,6 +2,6 @@
   "name": "Vector",
   "author": "Daniel Hay <danielhay@gatech.edu>",
   "license": "GNU GPL 3.0",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Custom implementation of C++ stl vector"
 }
